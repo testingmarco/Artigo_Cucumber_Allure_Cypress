@@ -1,4 +1,4 @@
-Este projeto é um Fork, não foi criado por mim  é um projeto criado por Nando Hanceel eu peguei a título de estudo
+Este projeto é um Fork, não foi criado por mim  é um projeto criado por Nando Hassel eu peguei a título de estudo
 é um projeto Cucumber escrito na lingugem Ghirken, fique a vontade
 para estudar comigo, baixe faça um clone e aproveite pois é um projeto muito bem feito
 
